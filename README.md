@@ -16,7 +16,7 @@
 </p>
  
 
-<h3>📫Me puedes contactar</h3>
+<h3>📫Contáctame</h3>
   <a href="mailto:nicolasrodriguezh77@gmail.com" target="_BLANK" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" alt="leo013contreras@gmail.com | Mail" /></a>
 
