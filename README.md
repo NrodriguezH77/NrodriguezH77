@@ -10,7 +10,8 @@
 📌 JavaScript 
 📌 Node Js
 📌 Express
-📌 Postgres 
+📌 Postgres
+📌 Sequelize
 📌 React
 📌 Redux
 </p>
